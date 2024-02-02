@@ -12,3 +12,5 @@ Before the report review, the query editor had to be used to ETL the data. As th
 This report contains two pages. The first one being a general Overview with basic and overall information (total flights, time spent on air, distance, total airports, etc). Also, it contains three buttons to switch information quicker for a deeper understanding. The first button applies filters to select years, while the second and third allow to switch from Destination information to Origin information (regarding Airports). Lastly, a top button can be pressed to switch easily to a Delay Analysis.
 
 On the second page, the delay analysis shows all the relevant information about this topic. Also, it allows to filter Airlines, years (as the previous page, with the same filter) and two buttons to switch between Arrival and Departure information aswell.
+![image]![image](https://github.com/Migualva/Power-BI-Flight-Analysis/assets/95355380/3a69cea5-7c0b-4456-b11e-efceb623643b)
+![image](https://github.com/Migualva/Power-BI-Flight-Analysis/assets/95355380/850b0774-83b1-496e-b9b8-1d75ea6ac944)
